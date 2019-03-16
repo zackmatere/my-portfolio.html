@@ -7,6 +7,9 @@ h2 {
   font-style: italic;
   text-align: center;
 }
+.I{
+  font-style: italic;
+}
 .good {
   color: red;
   text-align: left;
